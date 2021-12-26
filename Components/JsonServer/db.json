@@ -1,0 +1,19 @@
+{
+    "posts":[
+        {
+            "id": 1,
+            "content": "Best post Here",
+            "author": "Nik Stef"
+        },
+        {
+            "id": 2,
+            "content": "no so good post Here",
+            "author": "someone Else"
+        },
+        {
+            "id": 3,
+            "content": "Elon Musk post which send dogecoin to the moon!",
+            "author": "Elon Musk"
+        }
+    ]
+}
