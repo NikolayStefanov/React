@@ -5,7 +5,7 @@ const Categories = () => {
     return (
     <section className="dashboard">
         <h1>Dashboard</h1>
-        <CategoryNavigation></CategoryNavigation>
+        <CategoryNavigation/>
         <ul className="other-pets-list">
             <li className="otherPet">
                 <h3>Name: Gosho</h3>
